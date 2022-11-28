@@ -13,6 +13,11 @@ header {
   margin-bottom: 15px;
 }
 
+.headerimg {
+  width: 100%;
+  height: auto;
+}
+
 img {
   width: 100%;
   height: auto;
